@@ -2,7 +2,15 @@
 
 <h2>Hi There, i'm Lucas 👋</h2><br/> <img src="https://i.imgur.com/CTBjMmu.png" min-width="250px" max-width="250px" width="250px" align="right" alt="Lucas Img"> 
 
-<h4>My name is Lucas Almeida and I'm a full-stack developer currently working with Web Development using mainly javascript frameworks like VueJS and React. I love to solve problems and automatize stuff of my daily life using codes to turn easier the life of people around me and also my own. Althought I'm new in the Programmation world, because I just began to work with this recently, i'm already a bachelor degree in Science of Computation and my first contact for real with IT was in 2018. Also the fact i'm new with this keeps me very excited about learning a million things that I don't know yet and how can i apply these stuff in the practice. Nowadays I'm have focused in learn about code quality and designs pattern, always concerning about the user experience. Feel free to join in contact and if you have any doubts about my projects I will be happy to help you. </h4> <br/>
+<h4>A full-stack developer with 5+ years of experience building web applications that are fast, scalable, and user-focused.
+
+I specialize in modern web development using VueJS, Ruby on Rails, Elixir, JavaScript, and TypeScript — with strong experience integrating backend systems with tools like RabbitMQ, PostgreSQL, and MongoDB.
+
+I’m passionate about solving real-world problems through code, automating processes, and constantly improving software quality through clean code practices, testing, and design patterns. My journey in tech started in 2018, and since then, I’ve been driven by the excitement of learning and applying new technologies to create meaningful and practical solutions.
+
+I believe that good UX and solid architecture walk side by side, and I’m always refining my craft to deliver value through both.
+
+Feel free to reach out — whether you’re curious about my projects or just want to talk tech. I’m always happy to connect and collaborate! </h4> <br/>
 
 
 
